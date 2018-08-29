@@ -20,3 +20,4 @@
 4. _https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/_
 5. _https://iamakulov.com/notes/composes-in-css-modules/_
 6. _https://glenmaddern.com/articles/css-modules_
+7. _http://joaogarin.github.io/css-modules-angular2/_
