@@ -11,7 +11,7 @@
 
 ## Development efforts
 
-##
+## color naming conventio
 
 ## References
 1. _http://www.css3.info/preview/_
@@ -21,3 +21,8 @@
 5. _https://iamakulov.com/notes/composes-in-css-modules/_
 6. _https://glenmaddern.com/articles/css-modules_
 7. _http://joaogarin.github.io/css-modules-angular2/_
+
+### Color Naming conventions
+8. _http://chir.ag/projects/name-that-color/#350B38_
+9. _https://en.wikipedia.org/wiki/Web_colors#X11_color_names_
+10. _https://medium.com/kevin-salters-blog/how-to-give-css-colour-variables-awesome-names-d4cd33c4b3ae_
