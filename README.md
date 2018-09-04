@@ -26,3 +26,4 @@
 8. _http://chir.ag/projects/name-that-color/#350B38_
 9. _https://en.wikipedia.org/wiki/Web_colors#X11_color_names_
 10. _https://medium.com/kevin-salters-blog/how-to-give-css-colour-variables-awesome-names-d4cd33c4b3ae_
+11. _https://www.color-blindness.com/color-name-hue/_
